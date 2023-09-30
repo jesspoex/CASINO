@@ -9,7 +9,7 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-          NINJA TURTLE
+          QUANTITY BUILD
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
           A on-chain, provably-fair casino built on Gamba.
