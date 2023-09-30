@@ -6,7 +6,7 @@ export default {
   description: `
     Play and pray. At the top of the slot machine you can see your potential rewards. Always fair.
   `,
-  creator: '399KgE5gpzFvBB8arZLxA2bes3n4FY7rTMmzifHohPzx',
+  creator: '89mdwFVhcGT5nYzHNABcaiVaQuENnb39jimQ6qczSrQo',
   image: new URL('./logo.png', import.meta.url).href,
   theme_color: '#d185ff',
   app: React.lazy(() => import('./App')),
