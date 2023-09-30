@@ -7,7 +7,7 @@ export default {
   description: `
     A miniature version of Roulette. WYSIWYG!
   `,
-  creator: '399KgE5gpzFvBB8arZLxA2bes3n4FY7rTMmzifHohPzx',
+  creator: '89mdwFVhcGT5nYzHNABcaiVaQuENnb39jimQ6qczSrQo',
   image,
   theme_color: 'rgb(29 232 126)',
   app: React.lazy(() => import('./App')),
