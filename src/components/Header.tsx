@@ -10,13 +10,13 @@ export const Header: React.FC<React.PropsWithChildren<any>> = ({ children }) => 
         <div style={{ display: 'flex', gap: '10px', alignItems: 'center' }}>
           <NavButton variant="ghost" className={styles.logo} to="/">
             <img src="/logo.png" height="20px" alt="Logo" />
-            <span className={styles.title}>NINJA TURTLE CASINO</span>
+            <span className={styles.title}>QUANTITY BUILD CASINO</span>
           </NavButton>
           <div className={styles.iconContainer}>
-            <a href="https://t.co/ELETrTpKee" target="_blank" rel="noreferrer" className={styles.icon}>
+            <a href="https://discord.gg/kaYtnXZNW6" target="_blank" rel="noreferrer" className={styles.icon}>
               <FaDiscord />
             </a>
-            <a href="https://twitter.com/NINJA_TSS" target="_blank" rel="noreferrer" className={styles.icon}>
+            <a href="https://twitter.com/quantitybuild" target="_blank" rel="noreferrer" className={styles.icon}>
               <FaTwitter />
             </a>
           </div>
