@@ -9,10 +9,10 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-          QUANTITY BUILD
+          STOKUN
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          A on-chain, provably-fair casino built on Gamba.
+          SLOT EVERYDAY.
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           
